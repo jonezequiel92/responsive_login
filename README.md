@@ -1,3 +1,3 @@
 # responsive_login
 
-Este es Login usando HTML, CSS y jquery
+Este es un Login usando HTML, CSS y jquery
